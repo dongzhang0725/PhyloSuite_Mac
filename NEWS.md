@@ -1,5 +1,8 @@
 # Release Note
 
+## PhyloSuite v1.1.12 (2018-12-04, Tue)
++ test
+
 ## PhyloSuite v1.1.3 (2018-10-31, Wed)
 + Add statistics of nucleotide content of each gene
 + Fix the bug of sorting numbers in table
