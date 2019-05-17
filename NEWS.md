@@ -1,6 +1,6 @@
 # Release Note
 
-## PhyloSuite v1.1.153 (2019-05-17, Sun, <font color="red">BUG fix for v1.1.15</font>)
+## PhyloSuite v1.1.152 (2019-05-17, Sun, <font color="red">BUG fix for v1.1.15</font>)
 + Fixed a bug that caused PhyloSuite to crash on MAC and Linux
     + Added test run
     + Added strand-specific statistics to mitogenome extraction function 
